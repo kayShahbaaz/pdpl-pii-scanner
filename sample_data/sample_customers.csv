@@ -1,0 +1,11 @@
+customer_id,full_name,national_id,mobile_number,email,city,notes
+1001,Ahmed Al-Sulaiman,1023456789,0512345678,ahmed.s@example.com,Riyadh,Regular customer
+1002,Fatimah Al-Otaibi,1098765432,+966550123456,fatimah.o@example.com,Jeddah,VIP tier
+1003,Mohammed Al-Qahtani,2034567891,966501234567,mohammed.q@example.com,Dammam,
+1004,Sara Al-Harbi,1187654321,0598765432,sara.h@example.com,Mecca,Newsletter subscriber
+1005,Khalid Al-Zahrani,9999999999,0512223344,khalid.z@example.com,Medina,Invalid-looking ID for testing
+1006,Layla Al-Ghamdi,1076543219,123456,layla.g@example.com,Riyadh,Bad phone number for testing
+1007,Omar Al-Dosari,,0533456789,omar.d@example.com,Khobar,Missing national ID
+1008,Noura Al-Shehri,1145678932,0567891234,noura.s@example.com,Abha,
+1009,Yousef Al-Anzi,2098761234,+966512345678,yousef.a@example.com,Tabuk,
+1010,Hind Al-Rashidi,1023456780,0544556677,hind.r@example.com,Riyadh,Duplicate-style entry

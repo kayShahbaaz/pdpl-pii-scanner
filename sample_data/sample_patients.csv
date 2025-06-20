@@ -1,0 +1,4 @@
+patient_id,full_name,national_id,medical_condition,religion,server_location,consent_given
+P001,Saad Al-Mansour,1067891234,Type 2 Diabetes,Muslim,"AWS Frankfurt, Germany",
+P002,Nadia Al-Fahad,2089123456,No issues reported,,"AWS Riyadh, KSA",Yes
+P003,Bandar Al-Rasheed,1078912345,"Diagnosed with hypertension, on medication",Sunni,Azure US-East,
