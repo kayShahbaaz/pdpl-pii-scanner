@@ -19,6 +19,12 @@ python pdpl_checker.py sample_data --outdir output --redact --explain
 
 ---
 
+# Live Demo
+
+[PDPL-PII Scanner](https://kayshahbaaz.github.io/pdpl-pii-scanner/)
+
+---
+
 ## What it detects, and how PDPL classifies it
 
 | PII Type | PDPL Category | Why |
@@ -169,12 +175,11 @@ pdpl-pii-scanner/
 ├── output/                  # Generated each run (gitignored) — example contents after
 │   │                         # running with --redact --explain:
 │   ├── pii_findings.csv
-│   ├── pii_report.html
 │   └── redacted/
 │       ├── sample_customers.csv
 │       ├── sample_employees.xlsx
 │       └── sample_patients.csv
-│
+├── index.html
 ├── REPORT.md                # Written project + findings report (see Outputs above)
 ├── README.md                # You are here
 ├── LICENSE                  # MIT
